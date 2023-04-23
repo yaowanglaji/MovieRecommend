@@ -17,8 +17,6 @@
 # 电影标签的添加
 ![image](https://user-images.githubusercontent.com/126402933/233845708-8f9df5ac-cfa4-479a-95d7-64979fe5e8a3.png)
 
-
-
 # 电影类型识别：基于ES
 ![image](https://user-images.githubusercontent.com/126402933/233845403-d15d2022-09c3-4647-b86d-e80616aba472.png)
 
